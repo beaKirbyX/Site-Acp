@@ -38,7 +38,7 @@ li {
     --btnFontColor: var(--white);
 }
 .dark-theme{
-    --fontColor:var(--green);
+    --fontColor:var(--white);
     --bg:var(--black);
     --btnBg: var(--white);
     --btnFontColor: var(--black);
